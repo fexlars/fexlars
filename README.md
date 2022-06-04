@@ -14,3 +14,7 @@ Hi I'm a developer who mainly codes in Java / C#
 [fexlars/F25Mod](https://github.com/fexlars/F25Mod)
 <br />
 [fexlars/BlockRandomizer](https://github.com/fexlars/BlockRandomizer)
+
+### JavaScript/NodeJS Stuff
+
+[fexlars/BlockRandomizer](https://github.com/narloid/rbxjerk) (Made this with some friends I lead basically all of the development created with React)
