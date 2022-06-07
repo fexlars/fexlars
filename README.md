@@ -6,15 +6,3 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8CWJ31)
 <br />
 Hi I'm a developer who mainly codes in Java / C#
-## Projects I am actually proud of
-
-### Minecraft Mods / Spigot Plugins
-[fexlars/wawa](https://github.com/fexlars/wawa)
-<br />
-[fexlars/F25Mod](https://github.com/fexlars/F25Mod)
-<br />
-[fexlars/BlockRandomizer](https://github.com/fexlars/BlockRandomizer)
-
-### JavaScript/NodeJS Stuff
-
-[narloid/rbxjerk](https://github.com/narloid/rbxjerk) (Made this with some friends I lead basically all of the development created with React)
