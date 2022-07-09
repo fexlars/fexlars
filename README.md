@@ -6,3 +6,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8CWJ31)
 <br />
 Hi I'm a developer who mainly codes in Java, C#, and JavaScript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fexlars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
